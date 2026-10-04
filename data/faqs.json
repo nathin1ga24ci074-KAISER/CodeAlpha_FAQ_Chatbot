@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "question": "How can I apply for admission to the university?",
+    "answer": "You can apply online through the university admissions portal. Complete the registration form, upload the required academic transcripts and identity documents, and pay the non-refundable application fee.",
+    "variants": [
+      "How do I get admission?",
+      "How can I apply for admission?",
+      "What is the admission process?",
+      "How do I enroll in the university?",
+      "How can I apply to the university?",
+      "Where can I submit my admission application?",
+      "How to take admission?"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "question": "What documents are required during the admission process?",
+    "answer": "You must submit your high school / previous degree transcripts, government-issued photo ID (such as passport or national ID), proof of address, passport-sized photographs, and relevant entrance test scorecards.",
+    "variants": [
+      "What documents do I need for admission?",
+      "Which certificates are required to apply?",
+      "Where do I submit documents to apply for admission?",
+      "What paperwork is needed for university admission?",
+      "Required documents for admission",
+      "List of documents needed for registration"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Admissions",
+    "question": "What is the eligibility criteria for undergraduate degree programs?",
+    "answer": "Undergraduate applicants must have completed 10+2 or equivalent secondary education with a minimum aggregate of 60% from a recognized board, along with qualified scores in the university entrance test.",
+    "variants": [
+      "What are the eligibility requirements for UG courses?",
+      "What marks are needed for undergraduate admission?",
+      "Undergraduate admission criteria and percentage requirement",
+      "Am I eligible for undergraduate programs?",
+      "Minimum percentage required for UG admission"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Admissions",
+    "question": "What is the deadline for submitting undergraduate admission applications?",
+    "answer": "The regular admission application deadline for the fall semester is June 30th. Late submissions are accepted until July 15th with an additional late fee.",
+    "variants": [
+      "When is the last date to apply for admission?",
+      "What is the admission application deadline?",
+      "Until when can I submit my admission form?",
+      "Last date for university admission submission",
+      "What is the final date for admission application?"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Courses",
+    "question": "What undergraduate and postgraduate courses are offered?",
+    "answer": "The university offers diverse programs including Computer Science, Information Technology, Data Science, Mechanical Engineering, Business Administration (BBA/MBA), and Applied Sciences.",
+    "variants": [
+      "What programs and degrees are available?",
+      "Which courses can I study at the university?",
+      "List of undergraduate and postgraduate courses",
+      "What majors and branches are offered?",
+      "Available degree courses"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Courses",
+    "question": "Can I change my major or elective course after enrolling?",
+    "answer": "Yes, course change or major transfer requests are permitted within the first two weeks of the semester, subject to seat availability, departmental approval, and prerequisite compliance.",
+    "variants": [
+      "Can I switch my branch or major after admission?",
+      "How to change my elective subject?",
+      "Is branch change or course transfer permitted?",
+      "Can I switch courses after semester starts?",
+      "Process to change my chosen major"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Courses",
+    "question": "How do I register for semester courses and electives?",
+    "answer": "Course registration opens two weeks before each semester on the Student Information Portal (ERP). Log in with your student credentials, navigate to 'Course Registration', and select your preferred core and elective subjects.",
+    "variants": [
+      "How to select elective subjects for next semester?",
+      "When does course registration open on ERP?",
+      "Process to enroll in semester subjects",
+      "How do I choose my semester courses?",
+      "Semester course registration procedure"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Fees",
+    "question": "How can I pay my tuition fees online?",
+    "answer": "Tuition fees can be paid via the Student Portal payment gateway using Debit/Credit cards, Net Banking, or UPI. A payment receipt is generated instantly upon successful transaction.",
+    "variants": [
+      "Can I pay fees online?",
+      "How can I pay my semester fee online?",
+      "What online payment options are available for tuition fees?",
+      "How do I pay college fees through the student portal?",
+      "Can I pay my tuition online with UPI or credit card?",
+      "How to pay semester tuition fees online?"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Fees",
+    "question": "What is the tuition fee payment deadline for this semester?",
+    "answer": "Tuition fees must be paid within 15 days of semester commencement. A penalty fee of $50 per week is applied for delayed payments up to a maximum of 30 days.",
+    "variants": [
+      "When is the last date to pay tuition fees?",
+      "What happens if I pay my semester fee late?",
+      "What is the late fee penalty for tuition payment?",
+      "Tuition fee due date and payment schedule",
+      "Semester fee payment deadline and late fine"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Fees",
+    "question": "What is the university refund policy if I withdraw my admission?",
+    "answer": "Full refund (minus 10% processing fee) is granted if withdrawal is requested 15 days prior to class start. 50% refund is issued within the first week, and no refunds are made after the second week of classes.",
+    "variants": [
+      "Can I get a fee refund if I cancel my admission?",
+      "What is the fee cancellation and refund policy?",
+      "How much fee is refunded upon admission withdrawal?",
+      "Admission withdrawal fee refund rules",
+      "What is the cancellation refund policy?"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Scholarships",
+    "question": "Are merit-based scholarships available for students?",
+    "answer": "Yes, the university provides merit scholarships covering up to 50% to 100% of tuition fees for students who score in the top 5% in entrance examinations or maintain a CGPA above 9.0.",
+    "variants": [
+      "How can I get a scholarship?",
+      "How do I get a scholarship?",
+      "How do I apply for scholarships?",
+      "What scholarships are available for students?",
+      "Are there scholarships available?",
+      "What are the eligibility criteria for merit scholarships?",
+      "How can students get scholarships?",
+      "Merit scholarship application and criteria"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Scholarships",
+    "question": "How do I apply for financial aid or fee concessions?",
+    "answer": "Submit the Financial Assistance Application form along with family income certificates and tax returns to the Student Financial Aid Office by the end of the first month of the academic year.",
+    "variants": [
+      "How can I get financial aid or tuition fee concession?",
+      "What is the application process for student financial assistance?",
+      "Can I get a fee waiver based on family income?",
+      "Where to submit financial aid applications?",
+      "How do I apply for a fee waiver or concession?"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Scholarships",
+    "question": "Are there sports or extracurricular scholarships available?",
+    "answer": "Yes, students who have represented at national or international sporting competitions or cultural festivals are eligible for up to a 40% tuition waiver under the Sports Excellence Scheme.",
+    "variants": [
+      "Are there sports scholarships?",
+      "Can I get a scholarship for sports or athletics?",
+      "What are the sports scholarship criteria and fee waivers?",
+      "Do you offer athletic or cultural scholarships?",
+      "Sports excellence scholarship requirements",
+      "Extracurricular scholarship opportunities"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Exams",
+    "question": "When will the semester examination schedule be announced?",
+    "answer": "The semester exam timetable is published on the university examination portal and official notice boards at least four weeks prior to the commencement of exams.",
+    "variants": [
+      "When are exams conducted?",
+      "When are semester exams held?",
+      "What is the exam schedule?",
+      "When will final exams take place?",
+      "When do semester exams begin?",
+      "Where can I find the semester examination timetable?",
+      "Exam timetable release date and datesheet"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Exams",
+    "question": "How can I apply for re-evaluation or rechecking of exam papers?",
+    "answer": "You can apply for paper re-evaluation within 10 days of results declaration by submitting the online recheck request on the exam portal with a fee of $25 per course.",
+    "variants": [
+      "How do I apply for re-evaluation?",
+      "How can I get my exam papers rechecked?",
+      "What is the fee and process for paper re-evaluation?",
+      "Can I request rechecking of my answer sheets?",
+      "Exam paper recheck application deadline",
+      "How to request re-evaluation of marks?"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Exams",
+    "question": "What should I do if I miss an exam due to a medical emergency?",
+    "answer": "Notify the Controller of Examinations and your academic advisor within 48 hours, along with a verified medical certificate from a registered physician, to register for supplementary make-up exams.",
+    "variants": [
+      "Can I take a make-up exam if I was sick?",
+      "What is the procedure for missed exams due to medical reasons?",
+      "How to apply for supplementary exams after illness?",
+      "Missed semester examination medical certificate policy",
+      "What to do if I missed an exam due to illness?"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Attendance",
+    "question": "What is the minimum attendance required to appear for semester exams?",
+    "answer": "Students must maintain a minimum of 75% attendance in each course to be eligible to appear for the end-semester examinations.",
+    "variants": [
+      "What is the minimum attendance percentage needed?",
+      "How much attendance is required to sit for exams?",
+      "Is 75% attendance mandatory for exams?",
+      "What happens if my attendance is below 75%?",
+      "Attendance criteria for semester examinations"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Attendance",
+    "question": "How can I check my current subject-wise attendance percentage?",
+    "answer": "Log into the Student Portal (ERP) mobile app or website and click on the 'Attendance' dashboard to view real-time lecture attendance and shortage warnings.",
+    "variants": [
+      "Where do I see my attendance status?",
+      "How to view lecture attendance on student portal ERP?",
+      "How can I track my daily class attendance?",
+      "Check subject-wise attendance percentage online",
+      "How to check my attendance on the student app?"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Attendance",
+    "question": "How do I submit an excused medical absence or leave request?",
+    "answer": "Submit a leave application with valid medical documentation through the ERP Leave Portal within 3 working days of returning to campus for departmental attendance condonation.",
+    "variants": [
+      "How to apply for medical leave for attendance condonation?",
+      "Where to submit medical certificate for attendance excuse?",
+      "How do I get attendance credit for sick leave?",
+      "Process to request excused absence on ERP",
+      "How do I submit sick leave for classes?"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Library",
+    "question": "What are the university library opening hours?",
+    "answer": "The central library is open Monday through Saturday from 8:00 AM to 10:00 PM, and on Sundays from 10:00 AM to 5:00 PM. During final exam weeks, reading rooms remain open 24/7.",
+    "variants": [
+      "What are the library timings and hours?",
+      "When does the university library open and close?",
+      "Is the central library open on weekends and Sundays?",
+      "Library opening hours during final exam weeks",
+      "What time does the library close?"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Library",
+    "question": "How many books can a student borrow and for how long?",
+    "answer": "Undergraduate students can borrow up to 4 books for 14 days, while postgraduate and research scholars can borrow up to 6 books for 28 days with online renewal options.",
+    "variants": [
+      "What is the library book borrowing limit and duration?",
+      "How many days can I keep borrowed library books?",
+      "Can I renew library books online?",
+      "Book issue limits for undergraduate and postgraduate students",
+      "How many books can students borrow from library?"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Library",
+    "question": "How do I access digital library resources and IEEE research papers?",
+    "answer": "Log into the University Digital Library repository using your campus network ID to access subscribed databases, IEEE Xplore, ScienceDirect, Springer, and e-books from off-campus via proxy/VPN.",
+    "variants": [
+      "How can I read online research journals and IEEE papers?",
+      "How to access digital library databases from home via VPN?",
+      "Where can I find e-books and online journals through campus library?",
+      "Digital library access off-campus login",
+      "How to access IEEE Xplore and research papers?"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Hostel",
+    "question": "How can I apply for university hostel accommodation?",
+    "answer": "Hostel rooms are allocated on a first-come, first-served basis during admission. You can submit the hostel preference form through the Student Housing portal.",
+    "variants": [
+      "How do I apply for hostel room allocation?",
+      "What is the process to get campus student housing?",
+      "Where can I fill out the hostel room application form?",
+      "How to book a hostel room during admission?",
+      "Hostel accommodation application process"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Hostel",
+    "question": "What are the hostel curfew hours and visitation rules?",
+    "answer": "The standard hostel curfew is 9:30 PM on weekdays and 10:30 PM on weekends. Visitors are permitted in the designated visitor lounge between 4:00 PM and 7:00 PM.",
+    "variants": [
+      "What is the hostel gate closing time and curfew?",
+      "Are visitors allowed in student hostels?",
+      "Hostel in-time rules and visitor policies",
+      "What time must hostel residents return in the evening?",
+      "Hostel night curfew and guest timings"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Hostel",
+    "question": "What facilities and amenities are included in the hostel fee?",
+    "answer": "Hostel fees cover furnished accommodation, 3-time dining mess meals, high-speed Wi-Fi, 24/7 power backup, laundry facilities, study lounges, and round-the-clock security.",
+    "variants": [
+      "What amenities and facilities are included in hostel fees?",
+      "What amenities are in the hostel fee?",
+      "Does hostel fee include food, Wi-Fi, and laundry?",
+      "What facilities do campus hostels provide?",
+      "Hostel fee inclusions and amenities"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Placements",
+    "question": "Which companies visit the university for campus placements?",
+    "answer": "Over 200 leading tech companies, financial institutions, and MNCs visit annually, including Google, Microsoft, Amazon, Infosys, TCS, Deloitte, and Accenture.",
+    "variants": [
+      "Which recruiters and companies hire from campus?",
+      "What top tech companies come for placement drives?",
+      "List of placement recruiting companies visiting university",
+      "Campus placement company list",
+      "Which companies come for recruitment?"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Placements",
+    "question": "What are the eligibility criteria for participating in campus placements?",
+    "answer": "Students typically require a minimum CGPA of 6.5 or above with no standing backlogs, along with at least 80% attendance in placement training workshops.",
+    "variants": [
+      "What CGPA is required for campus placement drives?",
+      "Can students with backlogs sit for placements?",
+      "Placement eligibility requirements and attendance rules",
+      "Who is eligible to participate in campus recruitment?",
+      "Minimum CGPA for campus placements"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Placements",
+    "question": "When does the campus recruitment season begin for graduating students?",
+    "answer": "The campus placement drive officially starts in August during the final year (7th semester for undergraduates) and continues through April of the graduating year.",
+    "variants": [
+      "When do campus placements start?",
+      "When does the placement drive begin for final year students?",
+      "What month do campus placement interviews start?",
+      "Campus placement drive schedule and timeline",
+      "When does recruitment season begin?"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Internships",
+    "question": "Is an industrial internship mandatory for degree completion?",
+    "answer": "Yes, completing a minimum 8-week summer internship or a semester-long capstone internship in the pre-final or final year is mandatory to earn degree credits.",
+    "variants": [
+      "Are internships compulsory for graduating students?",
+      "How many weeks of internship are required for degree credits?",
+      "Is summer internship mandatory in the curriculum?",
+      "Internship requirement for degree completion",
+      "Do I have to do an internship to graduate?"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Internships",
+    "question": "How do I get a No Objection Certificate (NOC) for an external internship?",
+    "answer": "Submit your internship offer letter and company details to your department Head of Department (HOD) through the portal; the verified NOC is issued within 3 working days.",
+    "variants": [
+      "How to apply for internship NOC from the department?",
+      "What is the process to get a No Objection Certificate for internship?",
+      "Where do I submit my internship offer letter for NOC?",
+      "How long does it take to issue an internship NOC?",
+      "Internship NOC request procedure"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Timetables",
+    "question": "Where can I view my daily class schedule and timetable?",
+    "answer": "Your class schedule is updated every semester and can be viewed anytime under the 'My Schedule' tab on the Student ERP portal or campus mobile application.",
+    "variants": [
+      "Where can I find my semester class timetable?",
+      "How to check daily lecture schedule on ERP portal?",
+      "Where is the class schedule posted?",
+      "How can I see my subject class timings?",
+      "Class timetable and lecture schedule location"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Student ID",
+    "question": "How do I get a replacement if I lose my student ID card?",
+    "answer": "Report the lost card to the Security Office, pay a replacement card fee of $15 at the cashier desk, and collect your newly printed smart ID from the Student Services counter.",
+    "variants": [
+      "I lost my student ID.",
+      "I lost my student ID card.",
+      "How do I replace a lost ID card?",
+      "What should I do if my student ID is lost?",
+      "Lost student ID card replacement fee and procedure",
+      "How to get a new student ID card?",
+      "Where do I get a duplicate student ID?"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Certificates",
+    "question": "How do I request a bonafide certificate or official transcripts?",
+    "answer": "Submit a certificate request online via the Student Portal under 'Document Requests'. Bonafide certificates are issued digitally within 24 hours; physical transcripts take 3-5 days.",
+    "variants": [
+      "How can I get a bonafide certificate from the college?",
+      "How to apply for official academic transcripts online?",
+      "Where to request student bonafide certificate on portal?",
+      "How long does transcript issuance take?",
+      "Process to obtain bonafide certificate or transcripts"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Contact Information",
+    "question": "How can I contact the student affairs and support office?",
+    "answer": "The Student Affairs Office is located in the Administration Block, Room 102. You can submit an inquiry through the student support portal or call the help desk at +1 (555) 019-2834.",
+    "variants": [
+      "How to reach the student affairs helpdesk?",
+      "Where is the student affairs office located on campus?",
+      "Contact number and email for student services support",
+      "How do I contact student affairs?",
+      "Student support and grievance desk location"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Contact Information",
+    "question": "What is the 24/7 campus security emergency contact number?",
+    "answer": "For immediate campus emergencies, medical support, or security assistance, call the 24/7 Campus Emergency Hotline at +1 (555) 911-0000.",
+    "variants": [
+      "What is the campus emergency hotline number?",
+      "Who do I call in case of campus emergency or medical help?",
+      "24/7 campus security telephone number",
+      "Emergency security contact on campus",
+      "Campus police and medical emergency phone number"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Academic Support",
+    "question": "How do I schedule an appointment with an academic advisor or peer tutor?",
+    "answer": "Book one-on-one advising and free peer tutoring sessions through the Academic Success Center portal under 'Advisory & Tutoring' or visit the center in Library Wing B.",
+    "variants": [
+      "How can I book a session with a peer tutor?",
+      "Where do I get academic advising and free tutoring support?",
+      "How to meet an academic advisor at the success center?",
+      "Academic tutoring appointment booking process",
+      "How to get help from a peer tutor?"
+    ]
+  }
+]
